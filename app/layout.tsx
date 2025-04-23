@@ -82,7 +82,7 @@ export default function RootLayout({
               description: 'Exames de vista, avaliação visual e check-up ocular na Asa Norte, Brasília.',
               image: 'https://videreclinica.com.br/images/og-image.jpg',
               url: 'https://videreclinica.com.br',
-              telephone: '+5561999999999',
+              telephone: '+5561996570049',
               address: {
                 '@type': 'PostalAddress',
                 streetAddress: 'SHCN CLN 210 Bloco C Sala 101',
